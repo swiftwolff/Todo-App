@@ -5,9 +5,9 @@ Time spent: 5 hours spent in total
 
 Completed user stories:
 
-Required: User can add items to the list
-Required: User can delete items on the list by touching the item on the list for 2 seconds
-Required: User can edit the itmes on the list by quick touch on the item
+Required: User can add items to the list<br />
+Required: User can delete items on the list by touching the item on the list for 2 seconds<br />
+Required: User can edit the itmes on the list by quick touch on the item<br />
 
 Walkthrough of all user stories:
 
