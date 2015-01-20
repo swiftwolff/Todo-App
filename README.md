@@ -14,4 +14,5 @@ Notes:
 Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout.
 
 Walkthrough of all user stories:
-https://cloud.githubusercontent.com/assets/1085102/5812138/39ee8964-a018-11e4-9908-d84a059fac83.gif
+![Alt text](https://cloud.githubusercontent.com/assets/1085102/5812138/39ee8964-a018-11e4-9908-d84a059fac83.gif "Demo gif")
+
